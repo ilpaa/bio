@@ -20,11 +20,8 @@ Hello there! 👋 My name is Abdelkareem Ilpa, and I'm excited to share a bit ab
 
 ## Work Experience
 
-- 👔 While I haven't had formal work experience, I assisted my dad in unloading containers during his import business in Europe a couple of years ago.
+- 👔 While I haven't had formal work experience, I assisted my dad during his import business in Europe.
 
-## Challenging Situation
-
-- 📚 One challenging situation I faced was during a Discrete Structure course project in my first year. Despite unclear explanations from the professor and challenges with team collaboration, I persevered with determination and external resources like ChatGPT to complete the project successfully.
 
 ## Future Goals
 
