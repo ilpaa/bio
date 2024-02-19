@@ -18,10 +18,6 @@ Hello there! 👋 My name is Abdelkareem Ilpa, and I'm excited to share a bit ab
 - ♟️ In my free time, I enjoy playing chess.
 - 🏊 I also engage in swimming and horse riding for a bit of physical activity.
 
-## Work Experience
-
-- 👔 While I haven't had formal work experience, I assisted my dad during his import business in Europe.
-
 
 ## Future Goals
 
